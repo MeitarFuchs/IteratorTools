@@ -1,0 +1,3 @@
+/home/meitarfuchs/CLionProjects/Itertools/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/meitarfuchs/CLionProjects/Itertools/cmake-build-debug/CMakeFiles/Itertools.dir
+/home/meitarfuchs/CLionProjects/Itertools/cmake-build-debug/CMakeFiles/edit_cache.dir
